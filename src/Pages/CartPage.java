@@ -6,6 +6,8 @@ public class CartPage {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is Cart page");
+		
+		System.out.println("This is Cart page feature");
 
 	}
 
