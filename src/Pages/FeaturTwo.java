@@ -6,6 +6,7 @@ public class FeaturTwo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("f1");
+		System.out.println("f2");
 
 	}
 
